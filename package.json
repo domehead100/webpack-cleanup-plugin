@@ -18,18 +18,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gpbl/webpack-cleanup-plugin.git"
+    "url": "git+https://github.com/domehead100/webpack-cleanup-plugin.git"
   },
   "keywords": [
     "webpack",
     "webpack-plugin"
   ],
-  "author": "gpbl <io@gpbl.org> (https://github.com/gpbl)",
+  "author": "gpbl <io@gpbl.org> (https://github.com/domehead100)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gpbl/webpack-cleanup-plugin/issues"
+    "url": "https://github.com/domehead100/webpack-cleanup-plugin/issues"
   },
-  "homepage": "https://github.com/gpbl/webpack-cleanup-plugin#readme",
+  "homepage": "https://github.com/domehead100/webpack-cleanup-plugin#readme",
   "devDependencies": {
     "babel-cli": "6.24.1",
     "babel-core": "6.25.0",
