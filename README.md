@@ -1,5 +1,7 @@
 # This is a fork of [gpbl/webpack-cleanup-plugin](https://github.com/gpbl/webpack-cleanup-plugin) with just a minor change to work with webpack v4+ without a deprecation warning.
 
+[![Build Status](https://travis-ci.org/domehead100/webpack-cleanup-plugin.png)](https://travis-ci.org/domehead100/webpack-cleanup-plugin)
+
 # webpack-cleanup-plugin
 
 This [webpack](http://webpack.github.io) plugin cleans up the extraneous files
