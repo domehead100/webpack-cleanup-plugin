@@ -1,6 +1,6 @@
 {
   "name": "webpack-cleanup-plugin",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Plugin for webpack to cleanup extraneous files from the output path directory",
   "main": "./lib/WebpackCleanupPlugin.js",
   "engines": {
@@ -24,7 +24,7 @@
     "webpack",
     "webpack-plugin"
   ],
-  "author": "gpbl <io@gpbl.org> (https://github.com/domehead100)",
+  "author": "domehead100 <domehead100@gmail.com> (https://github.com/domehead100)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/domehead100/webpack-cleanup-plugin/issues"
