@@ -1,4 +1,4 @@
-🚨 I don't have the time to follow or update this plugin. If someone wants to the ownership of the npm module please io@gpbl.org, thanks!
+# This is a fork of [gpbl/webpack-cleanup-plugin](https://github.com/gpbl/webpack-cleanup-plugin) with just a minor change to work with webpack v4+ without a deprecation warning.
 
 # webpack-cleanup-plugin
 
