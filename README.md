@@ -27,7 +27,7 @@ keep files that are not webpack assets.
 Install via npm:
 
 ```
-npm install webpack-cleanup-plugin --save-dev
+npm install --save-dev https://github.com/domehead100/webpack-cleanup-plugin/tarball/v0.5.3
 ```
 
 Then add the plugin to the `plugins` array in your webpack's config, e.g.:
